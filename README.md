@@ -1,4 +1,4 @@
-# PowerFlow — Automaton-Based Formal Verification and Recovery of Smart Grid Fault States
+# PowerFlow: Automaton-Based Formal Verification and Recovery of Smart Grid Fault States
 
 This is the experimental prototype for the Theory of Computation project.
 
