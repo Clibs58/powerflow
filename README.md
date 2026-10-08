@@ -96,8 +96,6 @@ graphs/
 
 Do not manually type experimental numbers into the report.
 
-Copy the actual values produced by your run into Section 8.
-
 The expected logical outcomes are:
 
 - Valid sequences should be accepted.
@@ -108,33 +106,6 @@ The expected logical outcomes are:
 
 Execution time values are machine-dependent and must be reported from your own run.
 
-## Recommended screenshots
-
-Take screenshots of:
-
-1. Terminal showing the experiment completed.
-2. `basic_validation.csv`.
-3. `scalability.csv`.
-4. `product_automaton.csv`.
-5. The five generated graphs.
-6. The Python code for the DFA and recovery algorithm.
-
-## Suggested Section 8 structure
-
-### 8.1 Experimental Setup
-Python-based symbolic FSM simulator running on a personal computer.
-
-### 8.2 Transition Verification
-Report valid-sequence acceptance and invalid-sequence rejection.
-
-### 8.3 Recovery Path Search
-Report the shortest path from FAULT to NORMAL and average search time.
-
-### 8.4 Scalability
-Report recovery search time as the number of states increases.
-
-### 8.5 Product Automaton
-Report growth of the combined state space.
 
 ### 8.6 Baseline Comparison
 Compare unsafe requests against the number blocked by PowerFlow.
