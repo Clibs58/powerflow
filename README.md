@@ -106,9 +106,3 @@ The expected logical outcomes are:
 
 Execution time values are machine-dependent and must be reported from your own run.
 
-
-### 8.6 Baseline Comparison
-Compare unsafe requests against the number blocked by PowerFlow.
-
-### 8.7 Discussion
-Explain that these experiments validate the formal verification mechanism, not physical electrical-grid performance.
