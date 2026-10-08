@@ -1,0 +1,2 @@
+total_requests,invalid_requests,baseline_unsafe_actions,powerflow_blocked,powerflow_block_rate
+1000,498,498,498,100.0

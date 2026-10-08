@@ -1,0 +1,2 @@
+valid_total,valid_accepted,valid_acceptance_rate,invalid_total,invalid_rejected,invalid_rejection_rate
+1000,1000,100.0,1000,995,99.5
